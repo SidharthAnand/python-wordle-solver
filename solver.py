@@ -53,7 +53,7 @@ def solve():
         word = input_word()
         response = input_response()
 
-        if response == '1111' or response == 'GGGGG':
+        if response == '11111' or response == 'GGGGG':
             print(
                 ef.bold + '\nCongrats \U0001F389\U0001F389\U0001F389! The word was ' + fg.blue + f'{word}' 
                 + fg.rs + ef.bold + '!' + fg.rs)
