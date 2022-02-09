@@ -6,7 +6,7 @@ from pathlib import Path
 
 from sty import fg, ef
 
-path = "C:\\Users\\sidan\\Desktop\\Sidharth\\Python\\ywsidharthanand\\wordlesolver\\data\\words.txt"
+path = "data/words.txt"
 
 legal_char = set(string.ascii_letters)
 max_attempt = 6
