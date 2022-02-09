@@ -1,5 +1,4 @@
-
-# console-wordle-solver
+# python-wordle-solver
 Welcome to my Wordle Solver! Quickly guess the wordle of the day between three to five attemtps!
 
 
